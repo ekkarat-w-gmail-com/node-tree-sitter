@@ -114,4 +114,4 @@ async function test2() {
     syncOperationCount: 1000
   });
 }
-```
+```npm install tree-sitter
